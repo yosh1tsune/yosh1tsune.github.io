@@ -1,0 +1,1 @@
+Resumo com informações acadêmicas, profissionais e pessoais.
