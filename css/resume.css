@@ -190,3 +190,14 @@ a {
 a:hover, a:focus, a:active {
   color: rgb(133, 69, 5);
 }
+
+.project-img {
+  width: inherit;
+  transition: width 2s;
+}
+
+.project-img:hover {
+  width: 120%;
+  border: solid #d48a6e 0.4em;
+  border-radius: 2%;
+}
